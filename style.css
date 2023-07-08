@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    padding:25px;
+}
+
+.section{
+    border:1px solid grey;
+    padding:25px;
+}
+
+.section2{
+    padding:25px;
+}
+.section3{
+    padding:25px;
+}
+img{
+    width:350px;
+}
